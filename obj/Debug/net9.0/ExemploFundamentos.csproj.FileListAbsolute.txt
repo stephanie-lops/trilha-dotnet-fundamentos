@@ -1,0 +1,14 @@
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/bin/Debug/net9.0/ExemploFundamentos
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/bin/Debug/net9.0/ExemploFundamentos.deps.json
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/bin/Debug/net9.0/ExemploFundamentos.runtimeconfig.json
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/bin/Debug/net9.0/ExemploFundamentos.dll
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/bin/Debug/net9.0/ExemploFundamentos.pdb
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ExemploFundamentos.AssemblyInfoInputs.cache
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ExemploFundamentos.AssemblyInfo.cs
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ExemploFundamentos.csproj.CoreCompileInputs.cache
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ExemploFundamentos.dll
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/refint/ExemploFundamentos.dll
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ExemploFundamentos.pdb
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ExemploFundamentos.genruntimeconfig.cache
+/Users/stephanielopes/Documents/2025/Software Projects Icloud/Bootcamp_Avanade_Back_End/ExemploFundamentos/obj/Debug/net9.0/ref/ExemploFundamentos.dll
